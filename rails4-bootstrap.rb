@@ -46,7 +46,6 @@ gem_group :development do
 end
 
 gem_group :development, :test do
-  gem "zeus"
   gem "rspec-rails"
   gem "factory_girl_rails"
 end
