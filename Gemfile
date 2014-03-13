@@ -17,7 +17,6 @@ group :development do
 end
 
 group :development, :test do
-  gem "zeus"
   gem "rspec-rails"
   gem "factory_girl_rails"
 end
